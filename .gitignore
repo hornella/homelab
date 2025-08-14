@@ -1,0 +1,7 @@
+jellyseerr/*
+monitoring/*
+nginx-proxy-manager/*
+prometheus/*
+node_exporter/*
+grafana/*
+pihole/*
