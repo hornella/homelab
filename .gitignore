@@ -5,3 +5,6 @@ prometheus/*
 node_exporter/*
 grafana/*
 pihole/*
+prowlarr/*
+sonarr/*
+radarr/*
