@@ -145,7 +145,7 @@ services:
     #   ports:
     #     - "53:53/tcp"
     #     - "53:53/udp"
-    #     - "8081:80"  # Pi-hole admin interface
+    #     - "8085:80"  # Pi-hole admin interface
     #   environment:
     #     TZ: "America/Toronto"
     #     WEBPASSWORD: "changeme"
